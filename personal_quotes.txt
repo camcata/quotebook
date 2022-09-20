@@ -1,6 +1,5 @@
 Quote 1
 
-<<<<<<< HEAD
-=======
+
 I like green 
->>>>>>> personal_quotes
+
