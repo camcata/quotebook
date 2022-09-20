@@ -1,2 +1,6 @@
 Quote 1
 
+<<<<<<< HEAD
+=======
+I like blue
+>>>>>>> personal_quotes
