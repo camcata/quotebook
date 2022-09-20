@@ -2,5 +2,5 @@ Quote 1
 
 <<<<<<< HEAD
 =======
-I like blue
+I like green 
 >>>>>>> personal_quotes
